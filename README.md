@@ -48,4 +48,4 @@ ViewModel
 Приюты. Возможность скопировать адрес и посмотреть в гугл картах.
 
 ## Скрины
-![Image alt](https://wampi.ru/image/RKrQaLr)
+![Image alt](https://wampi.ru/image/RKrWCSy/screen3.jpg)
