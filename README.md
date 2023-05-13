@@ -48,4 +48,4 @@ ViewModel
 Приюты. Возможность скопировать адрес и посмотреть в гугл картах.
 
 ## Скрины
-![alt text](https://disk.yandex.ru/i/bAX58xwkRtMYgg.img)
+![Image alt](https://disk.yandex.ru/i/bAX58xwkRtMYgg)
