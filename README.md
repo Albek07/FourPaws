@@ -23,6 +23,10 @@ XML
 
 Jetpack Navigation
 
+Material Components
+
+ViewModel
+
 ## Описание
 
 Приложение FourPaws создано для помощи в поиске животных по многим областям Российской федерации.
