@@ -48,4 +48,7 @@ ViewModel
 Приюты. Возможность скопировать адрес и посмотреть в гугл картах.
 
 ## Скрины
-![Image alt](https://wampi.ru/image/RKrWCSy/screen3.jpg)
+
+  <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200">
+  
+  <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200">
