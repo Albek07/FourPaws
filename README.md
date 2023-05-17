@@ -53,4 +53,4 @@ ViewModel
   
   <img src ="https://github.com/Albek07/FourPaws/blob/master/загрузка.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/контент.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/авторизация-1.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/фильтр.jpg" width = "100" heigth ="200"> <img src ="https://github.com/Albek07/FourPaws/blob/master/фильтр-2.jpg" width = "100" heigth ="200"> 
   
-   <source src ="https://github.com/Albek07/FourPaws/blob/master/контент-2.jpg" width = "200" heigth ="400">
+   <source src ="https://github.com/Albek07/FourPaws/blob/master/контент-2.mp4" width = "200" heigth ="400">
